@@ -1,0 +1,70 @@
+body {
+  background-color: #ffe4fb;
+  color: #240046;
+  font-family: 'Gaegu', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.text-decoration {
+  text-decoration: none;
+  color: #240046;
+  font-weight: bold;
+}
+
+.menu {
+  background-color: #9d4edd !important;
+  color: #240046 !important;
+}
+
+.button-style.MuiButton-root {
+  background-color: #9d4edd;
+  color: #240046;
+  font-weight: bold;
+}
+
+.button-style.MuiButton-root:hover {
+  background-color: #7b2cbf;
+}
+
+.input-style .MuiOutlinedInput-root fieldset {
+  border-color: #9d4edd !important;
+}
+
+.input-style .MuiOutlinedInput-root:hover {
+  border-color: #7b2cbf !important;
+}
+
+.input-style .MuiOutlinedInput-root.Mui-focused {
+  border-color: #7b2cbf !important;
+}
+/*.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.success {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.removeButton {
+  background-color: rgb(0, 110, 255);
+  border-radius: 5px;
+}
+
+.blog ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+};*/

@@ -1,0 +1,12 @@
+.card {
+  border: 3px solid #9d4edd;
+  border-radius: 10px;
+  background-color: #ffe4fb !important;
+  box-shadow: none !important;
+}
+
+.input-margin {
+  margin-bottom: 0.5rem !important;
+}
+
+

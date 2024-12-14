@@ -1,0 +1,37 @@
+.blog-card {
+  border-radius: 10px;
+  border: 3px solid #9d4edd;
+  margin-top: 1rem;
+  color: #240046;
+  background-color: #b388eb !important;
+}
+
+.button-like {
+  margin-left: 0.5rem !important;
+}
+
+.like-icon {
+  margin-right: 0.5rem;
+}
+
+.comments-image {
+  width: 54%;
+  border-radius: 10px;
+}
+
+.form-position {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-icon {
+  color: #240046;
+}
+
+.no-comments {
+  text-align: center;
+}
